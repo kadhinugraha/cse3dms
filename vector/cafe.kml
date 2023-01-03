@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cafe" id="cafe">
+	<SimpleField name="full_id" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="osm_type" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="diet:vegan" type="string"></SimpleField>
+	<SimpleField name="takeaway" type="string"></SimpleField>
+	<SimpleField name="wheelchair" type="string"></SimpleField>
+	<SimpleField name="addr:suburb" type="string"></SimpleField>
+	<SimpleField name="outdoor_seating" type="string"></SimpleField>
+	<SimpleField name="addr:postcode" type="string"></SimpleField>
+</Schema>
+<Folder><name>cafe</name>
+  <Placemark>
+	<name>Fairfield Boathouse</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n474793929</SimpleData>
+		<SimpleData name="osm_id">474793929</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0136098,-37.7851623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kissaten</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n474793932</SimpleData>
+		<SimpleData name="osm_id">474793932</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0218161,-37.782721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4ever sisters</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n688016748</SimpleData>
+		<SimpleData name="osm_id">688016748</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0646385,-37.7429319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tres</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n688016800</SimpleData>
+		<SimpleData name="osm_id">688016800</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0644674,-37.7429815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milkwood</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n772399536</SimpleData>
+		<SimpleData name="osm_id">772399536</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9803782,-37.7676344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Third Tier Tea Room</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n772399855</SimpleData>
+		<SimpleData name="osm_id">772399855</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9803956,-37.7674954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Melissa Cakes Cafe Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n773241576</SimpleData>
+		<SimpleData name="osm_id">773241576</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.121643,-37.7567225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Launder It</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n945554121</SimpleData>
+		<SimpleData name="osm_id">945554121</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9972528,-37.7761083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mixed Business</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1239439411</SimpleData>
+		<SimpleData name="osm_id">1239439411</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9943783,-37.7854672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caffiend</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1260369495</SimpleData>
+		<SimpleData name="osm_id">1260369495</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1079963,-37.6877346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miss Marie</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1260379609</SimpleData>
+		<SimpleData name="osm_id">1260379609</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0657375,-37.7438296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1306862453</SimpleData>
+		<SimpleData name="osm_id">1306862453</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9710078,-37.7750324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1308523503</SimpleData>
+		<SimpleData name="osm_id">1308523503</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9870366,-37.7770408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1327108802</SimpleData>
+		<SimpleData name="osm_id">1327108802</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9806314,-37.7673235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leo's Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1338379224</SimpleData>
+		<SimpleData name="osm_id">1338379224</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0657635,-37.756348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spit Jack</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1423097380</SimpleData>
+		<SimpleData name="osm_id">1423097380</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Northcote</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0104413,-37.7787719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaféz</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1423146744</SimpleData>
+		<SimpleData name="osm_id">1423146744</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.000303,-37.769324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northcote Caffe Espresso</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1425742673</SimpleData>
+		<SimpleData name="osm_id">1425742673</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0014452,-37.7680454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fergerson Plarre</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1425742685</SimpleData>
+		<SimpleData name="osm_id">1425742685</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0016758,-37.7685841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Crescent Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1427015788</SimpleData>
+		<SimpleData name="osm_id">1427015788</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0018046,-37.7789159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penny Farthing Espresso</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1427083065</SimpleData>
+		<SimpleData name="osm_id">1427083065</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9982,-37.7741642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>V &amp; B Coffee &amp; Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1432376904</SimpleData>
+		<SimpleData name="osm_id">1432376904</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0426162,-37.7492736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Four Beans</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1435070794</SimpleData>
+		<SimpleData name="osm_id">1435070794</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9967212,-37.7828728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bakery &amp; Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1455649563</SimpleData>
+		<SimpleData name="osm_id">1455649563</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+		<SimpleData name="addr:postcode">3073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9896349,-37.7049915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clay Oven</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1608190637</SimpleData>
+		<SimpleData name="osm_id">1608190637</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.116462,-37.6980419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poached</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1619649069</SimpleData>
+		<SimpleData name="osm_id">1619649069</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9713213,-37.7729663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1666782914</SimpleData>
+		<SimpleData name="osm_id">1666782914</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0485492,-37.7210539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Small Block</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1671557044</SimpleData>
+		<SimpleData name="osm_id">1671557044</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9713771,-37.7741784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gelobar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1671557049</SimpleData>
+		<SimpleData name="osm_id">1671557049</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9711617,-37.7764628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Window Cnr Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1704835587</SimpleData>
+		<SimpleData name="osm_id">1704835587</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0154676,-37.7239899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Old Milkbar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1731762753</SimpleData>
+		<SimpleData name="osm_id">1731762753</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0165265,-37.7541217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stones Throw</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1864405216</SimpleData>
+		<SimpleData name="osm_id">1864405216</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+		<SimpleData name="addr:postcode">3094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1209025,-37.7173476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Door Corner Store Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1865193916</SimpleData>
+		<SimpleData name="osm_id">1865193916</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0040563,-37.7728134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Milkbar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1865226623</SimpleData>
+		<SimpleData name="osm_id">1865226623</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="addr:postcode">3094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1212943,-37.7171098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Were Street Food Store</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1865226635</SimpleData>
+		<SimpleData name="osm_id">1865226635</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+		<SimpleData name="addr:postcode">3094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1213346,-37.7166013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espresso 3094</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1865226637</SimpleData>
+		<SimpleData name="osm_id">1865226637</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="addr:postcode">3094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1214058,-37.7161153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flamin</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1876465910</SimpleData>
+		<SimpleData name="osm_id">1876465910</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1380011,-37.7203387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sugardough</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1950231964</SimpleData>
+		<SimpleData name="osm_id">1950231964</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9712754,-37.7731275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tinpot Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n1975940442</SimpleData>
+		<SimpleData name="osm_id">1975940442</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9838712,-37.7834518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greensleeves Coffee House</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2067992292</SimpleData>
+		<SimpleData name="osm_id">2067992292</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9821608,-37.7832354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Growers Espresso</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2120443436</SimpleData>
+		<SimpleData name="osm_id">2120443436</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.986937,-37.779903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raqwa Cafe and Beer Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2131736596</SimpleData>
+		<SimpleData name="osm_id">2131736596</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0061094,-37.7459451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belchif Snack Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2131763847</SimpleData>
+		<SimpleData name="osm_id">2131763847</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.029842,-37.748861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raglan Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2131769387</SimpleData>
+		<SimpleData name="osm_id">2131769387</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.025486,-37.751691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hardware Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2191916901</SimpleData>
+		<SimpleData name="osm_id">2191916901</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.032379,-37.74167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ruckers Hill Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2365435393</SimpleData>
+		<SimpleData name="osm_id">2365435393</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9982936,-37.7737786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green Park</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2407532973</SimpleData>
+		<SimpleData name="osm_id">2407532973</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9773295,-37.7799029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2623007907</SimpleData>
+		<SimpleData name="osm_id">2623007907</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0211822,-37.7592139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ruby's Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2647202602</SimpleData>
+		<SimpleData name="osm_id">2647202602</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9776531,-37.7459314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curly Joe's drive-thru coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2674000131</SimpleData>
+		<SimpleData name="osm_id">2674000131</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9788878,-37.7759071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sleepy's Cafe and Wine Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2674000132</SimpleData>
+		<SimpleData name="osm_id">2674000132</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9778225,-37.7808925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Degani</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2678679361</SimpleData>
+		<SimpleData name="osm_id">2678679361</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9721925,-37.7565659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Café BÜ</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2720460571</SimpleData>
+		<SimpleData name="osm_id">2720460571</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9751633,-37.7824581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IMA Café</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2726372663</SimpleData>
+		<SimpleData name="osm_id">2726372663</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9803487,-37.7544816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2735692807</SimpleData>
+		<SimpleData name="osm_id">2735692807</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0072491,-37.7149999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boundary Espresso</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2887172101</SimpleData>
+		<SimpleData name="osm_id">2887172101</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0042156,-37.7482617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Everest Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2933009008</SimpleData>
+		<SimpleData name="osm_id">2933009008</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9862255,-37.7119799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Il Melograno</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2970944457</SimpleData>
+		<SimpleData name="osm_id">2970944457</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9969775,-37.7803166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Degani</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2987775018</SimpleData>
+		<SimpleData name="osm_id">2987775018</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9837936,-37.7293484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eaglemont Dish</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n2999697128</SimpleData>
+		<SimpleData name="osm_id">2999697128</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0544751,-37.7636037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eat@Menzies</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3003930226</SimpleData>
+		<SimpleData name="osm_id">3003930226</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0521671,-37.7217503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Moat</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3003930236</SimpleData>
+		<SimpleData name="osm_id">3003930236</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0498061,-37.7229504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charlie's</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3019271335</SimpleData>
+		<SimpleData name="osm_id">3019271335</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0485938,-37.7209897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caffeine</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3019271336</SimpleData>
+		<SimpleData name="osm_id">3019271336</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.048502,-37.72099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Writer's Block</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3019313433</SimpleData>
+		<SimpleData name="osm_id">3019313433</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.048555,-37.720436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urban Alice</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3088929512</SimpleData>
+		<SimpleData name="osm_id">3088929512</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Northcote</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9978574,-37.7738317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Citrus</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3123384229</SimpleData>
+		<SimpleData name="osm_id">3123384229</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9841088,-37.7832134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3236262374</SimpleData>
+		<SimpleData name="osm_id">3236262374</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0121143,-37.6956956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dairy Bell</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3302190136</SimpleData>
+		<SimpleData name="osm_id">3302190136</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0654488,-37.700844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nat's place</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3336927852</SimpleData>
+		<SimpleData name="osm_id">3336927852</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0586687,-37.6993795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Locker Room</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3369918552</SimpleData>
+		<SimpleData name="osm_id">3369918552</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0734092,-37.6827456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa Nata</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3376061062</SimpleData>
+		<SimpleData name="osm_id">3376061062</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0017602,-37.7525393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barry</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3399003680</SimpleData>
+		<SimpleData name="osm_id">3399003680</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9967005,-37.7801846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gloria Jean's</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3437078567</SimpleData>
+		<SimpleData name="osm_id">3437078567</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0476688,-37.7130591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vorea</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3437078580</SimpleData>
+		<SimpleData name="osm_id">3437078580</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0477419,-37.7122869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gypsy Hideout</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3450051793</SimpleData>
+		<SimpleData name="osm_id">3450051793</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.996908,-37.780564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stretched pizza</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3519346987</SimpleData>
+		<SimpleData name="osm_id">3519346987</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9747363,-37.7565302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pause Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3519346988</SimpleData>
+		<SimpleData name="osm_id">3519346988</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9746168,-37.7565213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tickled Pink</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3665463320</SimpleData>
+		<SimpleData name="osm_id">3665463320</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9879023,-37.7511169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>D1uno Cafe &amp; Catering</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3693596974</SimpleData>
+		<SimpleData name="osm_id">3693596974</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9746662,-37.75699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Citrus tart Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3704220017</SimpleData>
+		<SimpleData name="osm_id">3704220017</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0820314,-37.712135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Syrup</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3704488969</SimpleData>
+		<SimpleData name="osm_id">3704488969</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.082465,-37.7097805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Degani Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3775879857</SimpleData>
+		<SimpleData name="osm_id">3775879857</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.002235,-37.767703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Herbert Café</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3822572657</SimpleData>
+		<SimpleData name="osm_id">3822572657</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9961834,-37.7692339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maillard Toast and Espresso Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3949640996</SimpleData>
+		<SimpleData name="osm_id">3949640996</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9867595,-37.7796732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barklys</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n3984925962</SimpleData>
+		<SimpleData name="osm_id">3984925962</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0674337,-37.7562156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Zaas</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4017426053</SimpleData>
+		<SimpleData name="osm_id">4017426053</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.061941,-37.7576073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cellini</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4017426055</SimpleData>
+		<SimpleData name="osm_id">4017426055</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0628627,-37.7559416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenn Bistro</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4049768919</SimpleData>
+		<SimpleData name="osm_id">4049768919</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0516207,-37.7209049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bean and Gone</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4063307427</SimpleData>
+		<SimpleData name="osm_id">4063307427</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0105644,-37.6950321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Pantheon</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4064857389</SimpleData>
+		<SimpleData name="osm_id">4064857389</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0181099,-37.7780476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stathmos</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4064857396</SimpleData>
+		<SimpleData name="osm_id">4064857396</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0184531,-37.7780364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikos</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4064857404</SimpleData>
+		<SimpleData name="osm_id">4064857404</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0174597,-37.7787992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bean Counter Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4099025134</SimpleData>
+		<SimpleData name="osm_id">4099025134</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0167123,-37.7795803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ash &amp; Rye</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4099025139</SimpleData>
+		<SimpleData name="osm_id">4099025139</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.010194,-37.7781836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 lbs Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4099025156</SimpleData>
+		<SimpleData name="osm_id">4099025156</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0171851,-37.7795467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Tea Rose</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4099025173</SimpleData>
+		<SimpleData name="osm_id">4099025173</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0172709,-37.7795393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sue's Sandwich Deli</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4296243851</SimpleData>
+		<SimpleData name="osm_id">4296243851</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9943561,-37.6894119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agoraphobic Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4408093926</SimpleData>
+		<SimpleData name="osm_id">4408093926</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0455587,-37.7193667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Awkward Mike's</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4519827590</SimpleData>
+		<SimpleData name="osm_id">4519827590</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9804031,-37.7671871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Elevation</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4545781991</SimpleData>
+		<SimpleData name="osm_id">4545781991</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9722573,-37.7675789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lady Bower</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4643411552</SimpleData>
+		<SimpleData name="osm_id">4643411552</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0104867,-37.7168228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alour Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4643411556</SimpleData>
+		<SimpleData name="osm_id">4643411556</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0101509,-37.7171498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Café Baréa</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4727131192</SimpleData>
+		<SimpleData name="osm_id">4727131192</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0048728,-37.7321277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kia Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4744268698</SimpleData>
+		<SimpleData name="osm_id">4744268698</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0330452,-37.7437732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pelligra Cakes</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4914579890</SimpleData>
+		<SimpleData name="osm_id">4914579890</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+		<SimpleData name="addr:postcode">3088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1046639,-37.7030044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Express</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4938372007</SimpleData>
+		<SimpleData name="osm_id">4938372007</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9944288,-37.755847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sartoria</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4954130058</SimpleData>
+		<SimpleData name="osm_id">4954130058</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="diet:vegan">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0043889,-37.7479228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheshire</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4959280795</SimpleData>
+		<SimpleData name="osm_id">4959280795</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Preston</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9913179,-37.729758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson Dodds</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4959281491</SimpleData>
+		<SimpleData name="osm_id">4959281491</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.991465,-37.7289915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoppa &amp; Joe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n4972009947</SimpleData>
+		<SimpleData name="osm_id">4972009947</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0187413,-37.7829876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TY Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5076265984</SimpleData>
+		<SimpleData name="osm_id">5076265984</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0425026,-37.7498953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espresso Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5110148984</SimpleData>
+		<SimpleData name="osm_id">5110148984</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9993553,-37.7677644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shisha Lounge</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5110148992</SimpleData>
+		<SimpleData name="osm_id">5110148992</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0082878,-37.7425932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawn + Dusk</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5123921793</SimpleData>
+		<SimpleData name="osm_id">5123921793</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9987327,-37.7714154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CJ Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5125803523</SimpleData>
+		<SimpleData name="osm_id">5125803523</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.005165,-37.7468737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pnety &amp; More</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5125803533</SimpleData>
+		<SimpleData name="osm_id">5125803533</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0065463,-37.7449366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kats Cakes</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5152973328</SimpleData>
+		<SimpleData name="osm_id">5152973328</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1027651,-37.7832122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cucina 333</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5311862111</SimpleData>
+		<SimpleData name="osm_id">5311862111</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9721776,-37.7682377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Four Leaves Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5313024024</SimpleData>
+		<SimpleData name="osm_id">5313024024</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0766203,-37.746125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smug Relish</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5376772500</SimpleData>
+		<SimpleData name="osm_id">5376772500</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9734656,-37.7625078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gellibrand</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5398328261</SimpleData>
+		<SimpleData name="osm_id">5398328261</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.006941,-37.7038579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espresso Alley</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5409203217</SimpleData>
+		<SimpleData name="osm_id">5409203217</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.999785,-37.7694962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pomona Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5422344381</SimpleData>
+		<SimpleData name="osm_id">5422344381</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.99515,-37.7369704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acropol</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5437199555</SimpleData>
+		<SimpleData name="osm_id">5437199555</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9820679,-37.7175464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Spot</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5461752204</SimpleData>
+		<SimpleData name="osm_id">5461752204</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9755835,-37.755171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IGA</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5461955638</SimpleData>
+		<SimpleData name="osm_id">5461955638</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9754733,-37.7555241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomson Street Foodstore</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5574900461</SimpleData>
+		<SimpleData name="osm_id">5574900461</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0124306,-37.7804348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harvest</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5579849390</SimpleData>
+		<SimpleData name="osm_id">5579849390</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0181682,-37.7775279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brazen Brownies and Dessert Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5587634151</SimpleData>
+		<SimpleData name="osm_id">5587634151</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0187082,-37.7766626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Three Locals</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5591497466</SimpleData>
+		<SimpleData name="osm_id">5591497466</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0186159,-37.7772524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miss Margaret</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5595609021</SimpleData>
+		<SimpleData name="osm_id">5595609021</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9882246,-37.750551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5627332763</SimpleData>
+		<SimpleData name="osm_id">5627332763</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0024129,-37.7388832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sokolata</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5627333954</SimpleData>
+		<SimpleData name="osm_id">5627333954</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0024614,-37.7385287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calavera Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5638787972</SimpleData>
+		<SimpleData name="osm_id">5638787972</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0021558,-37.7388641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pasquales Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5638805273</SimpleData>
+		<SimpleData name="osm_id">5638805273</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0023408,-37.7389718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lucchini Continental Cakes</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5638805279</SimpleData>
+		<SimpleData name="osm_id">5638805279</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0020786,-37.7392676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Open Studio</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5794821455</SimpleData>
+		<SimpleData name="osm_id">5794821455</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9981771,-37.7742773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5806706870</SimpleData>
+		<SimpleData name="osm_id">5806706870</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9992953,-37.7688302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corner Take Away</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5928341153</SimpleData>
+		<SimpleData name="osm_id">5928341153</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9833481,-37.7165826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beans &amp; Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5954429289</SimpleData>
+		<SimpleData name="osm_id">5954429289</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9718282,-37.7303478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toledo Brunswick</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5984601122</SimpleData>
+		<SimpleData name="osm_id">5984601122</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="diet:vegan">yes</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+		<SimpleData name="addr:postcode">3056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9715392,-37.7699499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Double Dutch Coffee Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n5984668435</SimpleData>
+		<SimpleData name="osm_id">5984668435</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.97165,-37.7707978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Get fed</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6004325103</SimpleData>
+		<SimpleData name="osm_id">6004325103</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9761412,-37.7216683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ten Tables</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6016756841</SimpleData>
+		<SimpleData name="osm_id">6016756841</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9763566,-37.7705095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caffe Rustico</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017199874</SimpleData>
+		<SimpleData name="osm_id">6017199874</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.00406,-37.7405129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brown Bear</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017199990</SimpleData>
+		<SimpleData name="osm_id">6017199990</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0030058,-37.7430328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Lucchini</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200005</SimpleData>
+		<SimpleData name="osm_id">6017200005</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0039561,-37.739281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Penguine</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200038</SimpleData>
+		<SimpleData name="osm_id">6017200038</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0040877,-37.7365052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HA Espresso</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200045</SimpleData>
+		<SimpleData name="osm_id">6017200045</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0029616,-37.7433924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 Tails</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200049</SimpleData>
+		<SimpleData name="osm_id">6017200049</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0034841,-37.7421303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>International Cafe Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200052</SimpleData>
+		<SimpleData name="osm_id">6017200052</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.003322,-37.7412221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shisha Square</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200077</SimpleData>
+		<SimpleData name="osm_id">6017200077</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0031713,-37.7420559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>X</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200093</SimpleData>
+		<SimpleData name="osm_id">6017200093</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0044769,-37.736112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Young Man Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200120</SimpleData>
+		<SimpleData name="osm_id">6017200120</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0046629,-37.7350746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Europe Coffee House</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200140</SimpleData>
+		<SimpleData name="osm_id">6017200140</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0034111,-37.7406525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tasties Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200203</SimpleData>
+		<SimpleData name="osm_id">6017200203</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.00394,-37.7393728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ablas Patisserie</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017200217</SimpleData>
+		<SimpleData name="osm_id">6017200217</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0034157,-37.7429632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kolache</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017236215</SimpleData>
+		<SimpleData name="osm_id">6017236215</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0020156,-37.7490587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hunt Gather Eat</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017236225</SimpleData>
+		<SimpleData name="osm_id">6017236225</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.002553,-37.7482042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A Simple Sandwich</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017236256</SimpleData>
+		<SimpleData name="osm_id">6017236256</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Preston</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0019682,-37.7493553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tasty Bite</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017394198</SimpleData>
+		<SimpleData name="osm_id">6017394198</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0060275,-37.7460566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Remy’s Place</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017394203</SimpleData>
+		<SimpleData name="osm_id">6017394203</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0050313,-37.7470533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Bean</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017394207</SimpleData>
+		<SimpleData name="osm_id">6017394207</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0045551,-37.7477873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arepa Days</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017394223</SimpleData>
+		<SimpleData name="osm_id">6017394223</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0037916,-37.7413183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Field Black</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017431770</SimpleData>
+		<SimpleData name="osm_id">6017431770</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9994903,-37.7660561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tibbs &amp; Bones</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6017435289</SimpleData>
+		<SimpleData name="osm_id">6017435289</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9993575,-37.7683052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Code 21</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6124860192</SimpleData>
+		<SimpleData name="osm_id">6124860192</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9762537,-37.7786601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Lucio</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6129420044</SimpleData>
+		<SimpleData name="osm_id">6129420044</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0584442,-37.6971364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6129421728</SimpleData>
+		<SimpleData name="osm_id">6129421728</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.058073,-37.6971376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wild Life Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6131763038</SimpleData>
+		<SimpleData name="osm_id">6131763038</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9740308,-37.7702623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Pioneer Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6246287136</SimpleData>
+		<SimpleData name="osm_id">6246287136</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0712675,-37.7450233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Local</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6269168291</SimpleData>
+		<SimpleData name="osm_id">6269168291</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Northcote</SimpleData>
+		<SimpleData name="addr:postcode">3070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.998337,-37.7716685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Elixir</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6369142287</SimpleData>
+		<SimpleData name="osm_id">6369142287</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Preston</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9919397,-37.7293068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poke The Bear</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6420052783</SimpleData>
+		<SimpleData name="osm_id">6420052783</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.998816,-37.772212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hudsons Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6451337613</SimpleData>
+		<SimpleData name="osm_id">6451337613</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0623295,-37.6912765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Two Boys and a Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6625159132</SimpleData>
+		<SimpleData name="osm_id">6625159132</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0115247,-37.7383041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mr Wednesday</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6656704241</SimpleData>
+		<SimpleData name="osm_id">6656704241</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0242235,-37.7788879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapt Two</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6665268665</SimpleData>
+		<SimpleData name="osm_id">6665268665</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9793582,-37.7713584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Touchstone Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6710535367</SimpleData>
+		<SimpleData name="osm_id">6710535367</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.070219,-37.7276467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6734033021</SimpleData>
+		<SimpleData name="osm_id">6734033021</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9832825,-37.7655418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cassell Bella's Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6744765515</SimpleData>
+		<SimpleData name="osm_id">6744765515</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9987736,-37.7697076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coffee Culture on Lygon</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6776213182</SimpleData>
+		<SimpleData name="osm_id">6776213182</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9716954,-37.7723992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brewista Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6781629487</SimpleData>
+		<SimpleData name="osm_id">6781629487</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0108164,-37.7531524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Millhouse Bakery Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n6923610627</SimpleData>
+		<SimpleData name="osm_id">6923610627</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9937582,-37.7550946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bakes &amp; Bagels</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7045310691</SimpleData>
+		<SimpleData name="osm_id">7045310691</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9888924,-37.7512212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Spoon Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7085426314</SimpleData>
+		<SimpleData name="osm_id">7085426314</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.997602,-37.7086844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Offspring Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7088277998</SimpleData>
+		<SimpleData name="osm_id">7088277998</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0063124,-37.7161604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clayton &amp; Me</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7088278005</SimpleData>
+		<SimpleData name="osm_id">7088278005</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0057549,-37.7160964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Alphington Foodstore</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7189757781</SimpleData>
+		<SimpleData name="osm_id">7189757781</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0307394,-37.7780786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Becca Foodstore</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7189799662</SimpleData>
+		<SimpleData name="osm_id">7189799662</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0259122,-37.775467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sibling</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7202656291</SimpleData>
+		<SimpleData name="osm_id">7202656291</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9770558,-37.7849261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carolina</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7207063006</SimpleData>
+		<SimpleData name="osm_id">7207063006</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9780615,-37.779472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leanna</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7236103647</SimpleData>
+		<SimpleData name="osm_id">7236103647</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0016228,-37.7684369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gilbert Road Bakehouse</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7396461315</SimpleData>
+		<SimpleData name="osm_id">7396461315</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9879207,-37.7505995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>iPugliesi</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7621476291</SimpleData>
+		<SimpleData name="osm_id">7621476291</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9841943,-37.7290269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Take Two</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7857885748</SimpleData>
+		<SimpleData name="osm_id">7857885748</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9709471,-37.7753409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meet Me @ Ed’s</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7991453294</SimpleData>
+		<SimpleData name="osm_id">7991453294</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Fairfield</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0231318,-37.7679078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7991453303</SimpleData>
+		<SimpleData name="osm_id">7991453303</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">only</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0260356,-37.7682203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outer Circle Social Club</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n7991453305</SimpleData>
+		<SimpleData name="osm_id">7991453305</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="outdoor_seating">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0214309,-37.7677233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8004959846</SimpleData>
+		<SimpleData name="osm_id">8004959846</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1300046,-37.7574712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Si Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8004959848</SimpleData>
+		<SimpleData name="osm_id">8004959848</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1296556,-37.7570936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Cornerstore</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8223514289</SimpleData>
+		<SimpleData name="osm_id">8223514289</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Ivanhoe East</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0456399,-37.771939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Docasa</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8223514294</SimpleData>
+		<SimpleData name="osm_id">8223514294</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0465519,-37.7716644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8232667789</SimpleData>
+		<SimpleData name="osm_id">8232667789</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9731632,-37.7641103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pie Face</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8246982605</SimpleData>
+		<SimpleData name="osm_id">8246982605</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="addr:suburb">Preston</SimpleData>
+		<SimpleData name="addr:postcode">3072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.022181,-37.7477319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arthur Street Deli</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8419583766</SimpleData>
+		<SimpleData name="osm_id">8419583766</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0184356,-37.7830395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bellboy Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8717696698</SimpleData>
+		<SimpleData name="osm_id">8717696698</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9791873,-37.7723006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taiyo Sun</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8790714686</SimpleData>
+		<SimpleData name="osm_id">8790714686</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9883515,-37.7782676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Foreigner</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n8867059319</SimpleData>
+		<SimpleData name="osm_id">8867059319</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0445918,-37.7664626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9073393586</SimpleData>
+		<SimpleData name="osm_id">9073393586</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0616077,-37.7575668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lip Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9107756450</SimpleData>
+		<SimpleData name="osm_id">9107756450</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0443093,-37.7593628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Daughters</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9110868579</SimpleData>
+		<SimpleData name="osm_id">9110868579</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Ivanhoe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0425316,-37.7688318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laurent</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9110868590</SimpleData>
+		<SimpleData name="osm_id">9110868590</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0424133,-37.7685994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Macchiato</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9319609117</SimpleData>
+		<SimpleData name="osm_id">9319609117</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1122379,-37.7723587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9470170892</SimpleData>
+		<SimpleData name="osm_id">9470170892</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9964843,-37.6997251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Degani</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9585242027</SimpleData>
+		<SimpleData name="osm_id">9585242027</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1362308,-37.6849427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bachelor of Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9642676457</SimpleData>
+		<SimpleData name="osm_id">9642676457</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0486712,-37.7209903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuel Juice &amp; Soup Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9642676462</SimpleData>
+		<SimpleData name="osm_id">9642676462</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0480378,-37.7209061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grafali's Coffee Roasters</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9642676463</SimpleData>
+		<SimpleData name="osm_id">9642676463</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0480409,-37.7207583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>House of Cards</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9642676474</SimpleData>
+		<SimpleData name="osm_id">9642676474</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0469893,-37.7206614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Artiga Specialty Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9684279735</SimpleData>
+		<SimpleData name="osm_id">9684279735</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="takeaway">yes</SimpleData>
+		<SimpleData name="addr:suburb">Thornbury</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0286561,-37.7592669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agnes &amp; Alban</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9687928982</SimpleData>
+		<SimpleData name="osm_id">9687928982</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.1353538,-37.7314255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deli Danois</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9721983603</SimpleData>
+		<SimpleData name="osm_id">9721983603</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:postcode">3054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9775967,-37.7821346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suntop Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9873448064</SimpleData>
+		<SimpleData name="osm_id">9873448064</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.9802482,-37.7663049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinkie</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n9981016212</SimpleData>
+		<SimpleData name="osm_id">9981016212</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+		<SimpleData name="outdoor_seating">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0440114,-37.7681835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thornbury Espresso Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n10138871819</SimpleData>
+		<SimpleData name="osm_id">10138871819</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Thornbury</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0014936,-37.7542172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haytch</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n10138871836</SimpleData>
+		<SimpleData name="osm_id">10138871836</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Thornbury</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0008271,-37.7583494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lan Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n10144985269</SimpleData>
+		<SimpleData name="osm_id">10144985269</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+		<SimpleData name="addr:suburb">Thornbury</SimpleData>
+		<SimpleData name="addr:postcode">3071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.000556,-37.7600607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wish Upon a Cupcake</name>
+	<ExtendedData><SchemaData schemaUrl="#cafe">
+		<SimpleData name="full_id">n10175111947</SimpleData>
+		<SimpleData name="osm_id">10175111947</SimpleData>
+		<SimpleData name="osm_type">node</SimpleData>
+		<SimpleData name="amenity">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.0817991,-37.7125605</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
