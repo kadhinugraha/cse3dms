@@ -12,4 +12,5 @@ FROM postgis/postgis
 
 RUN apt-get update
 RUN apt-get install -y procps && rm -rf /var/lib/apt/lists/*
+RUN apt-get update
 RUN apt-get install gdal-bin -y
