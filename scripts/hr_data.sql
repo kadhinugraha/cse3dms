@@ -27,37 +27,10 @@
 -- NAME
 --   hr_popul.sql - Populate script for HR schema
 --
--- DESCRIPTON
---
---
--- NOTES
---   There is a circular foreign key reference between 
---   EMPLOYESS and DEPARTMENTS. That's why we disable
---   the FK constraints here
---
--- CREATED
---   Nancy Greenberg, Nagavalli Pataballa - 06/01/00
---
--- MODIFIED   (MM/DD/YY)
---   celsbern  08/07/08 - fixing date strings to use all numbers, no month
---                        names
---   cbauwens  02/13/08 - employees.hire_date rolled forward 8 years
---                        job_history start_date end_date rolled forward 8 years
---   hyeh      08/29/02 - hyeh_mv_comschema_to_rdbms
---   ahunold   03/07/01 - small data errors corrected
---                      - Modified region values of countries table
---                      - Replaced ID sequence values for employees
---                        and departments tables with numbers
---                      - Moved create sequence statements to hr_cre
---                      - --oved dn values for employees and
---                        departments tables
---                      - --oved currency columns values from
---                        countries table
---   ngreenbe           - Updated employee 178 for no department
---   pnathan            - Insert new rows to job_history table
---   ahunold   02/20/01 - NLS_LANGUAGE, replacing non American
---   ahunold   01/09/01 - checkin ADE
+-- ADAPTED TO PostgreSQL for CSE3DMS subject
+-- k.adhinugraha@latrobe.edu.au
 
+begin transaction;
 
 -- ***************************insert data into the REGIONS table
 
@@ -455,6 +428,7 @@ INSERT INTO hr.locations VALUES
 -- ******  Populating DEPARTMENTS table ....
 
 -- disable integrity constraint to EMPLOYEES to load data
+
 
 set constraints hr.dept_mgr_fk deferred ;
  
@@ -2368,4 +2342,5 @@ VALUES  (200
         , 90
         );
 
+commit;
 
