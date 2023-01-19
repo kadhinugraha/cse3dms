@@ -5,8 +5,9 @@
 # by Docker Compose to build a Docker image for our application.
 # add pgadmin as well
 
-# Base this image on an official Node.js long term support image.
-FROM postgis/postgis
+# Base on PostGIS 14
+# Do not use the latest version to avoid incompatibility issues
+FROM postgis/postgis:14-3.3
 
 # Install some additional packages that we need.
 
