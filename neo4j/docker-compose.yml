@@ -22,7 +22,7 @@ services:
     volumes:
 #replace the folowing local folder with your local folder where the data will be kept permanently when you turn off your lab computer.
 #You may put the working folder in La Trobe OneDrive folder.
-      - "C:/dataset/neo4j/data:/data"
-      - "C:/dataset/neo4j/logs:/logs"
-      - "C:/dataset/neo4j/import:/var/lib/neo4j/import"
-      - "C:/dataset/neo4j/plugins:/plugins"      
+      - "./data:/data"
+      - "./neo4j/logs:/logs"
+      - "./import:/var/lib/neo4j/import"
+      - "./plugins:/plugins"      
