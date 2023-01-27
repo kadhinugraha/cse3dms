@@ -28,7 +28,9 @@ services:
       - "80:80"
     restart: on-failure
     volumes:
-      #Replace the C:/Users/kadhinugraha/OneDrive/database/postgis/cse3dms with folder in your La Trobe Onedrive
-      - "C:/Users/kadhinugraha/OneDrive/database/postgis/cse3dms:/var/lib/postgresql/data"
-      #Replace the C:/dataset/vector with your own directory that contains vector file and external data
-      - "C:/dataset/vector:/home"
+      #This is where Postgresql stores the data
+      #Replace the ./pgdata with local folder in your PC. 
+      #You could leave this as is if you extract the CSE3DMS folder in your La Trobe Onedrive folder
+      - "./pgdata:/var/lib/postgresql/data"
+      #Replace the ../vector with your own directory that contains vector file and external data
+      - "../vector:/home"
