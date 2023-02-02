@@ -25,7 +25,6 @@ services:
       - POSTGRES_MULTIPLE_EXTENSIONS=postgis
     ports:
       - "5430:5432"
-      - "80:80"
     restart: on-failure
     volumes:
       #This is where Postgresql stores the data
