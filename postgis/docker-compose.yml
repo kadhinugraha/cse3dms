@@ -32,4 +32,5 @@ services:
       #You could leave this as is if you extract the CSE3DMS folder in your La Trobe Onedrive folder
       - "./pgdata:/var/lib/postgresql/data"
       #Replace the ../vector with your own directory that contains vector file and external data
-      - "../vector:/home"
+      - "../vector:/home/vector"
+      - "./extdata:/home/extdata"
