@@ -1,16 +1,14 @@
-# docker-compose build
 # configured for CSE3DMS - Database Management System
 # PostGIS server
 # La Trobe University
 # Created by Kiki Adhinugraha
+# update on November 2024 to support Apple Silicone chip
 
 # how to use:
 # make sure you have Docker or Docker Desktop installed
 # remove "postgis_" from the filename. Make sure the file name is "docker-compose.yml"
-# Open the folder that contains docker-compose.yml
-# run C:\> docker-compose up
-
-version: '2.0'
+# Open the folder that contains docker compose.yml
+# run $ docker compose up
 
 services:
  db:
