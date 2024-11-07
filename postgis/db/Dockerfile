@@ -1,17 +1,24 @@
 # ## Dockerfile ##
 #
-# This file describes the complete environment in which our server will run,
-# including the operating system and all software dependencies. It is used
-# by Docker Compose to build a Docker image for our application.
-# add pgadmin as well
+# configured for CSE3DMS - Database Management System
+# PostGIS server
+# La Trobe University
+# Created by Kiki Adhinugraha
+# update on November 2024 to support Apple Silicon chip
 
-# Base on PostGIS 14
-# Do not use the latest version to avoid incompatibility issues
-FROM postgis/postgis:14-3.3
+FROM postgres:17.0-bookworm
 
-# Install some additional packages that we need.
+# Install PostGIS
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        postgis \
+        postgresql-17-postgis-3 \
+        postgresql-17-postgis-3-scripts 
 
-RUN apt-get update
-RUN apt-get install -y procps && rm -rf /var/lib/apt/lists/*
-RUN apt-get update
-RUN apt-get install gdal-bin -y
+COPY init_postgis.sh /docker-entrypoint-initdb.d/
+
+    # Install some additional packages for ogr2gor
+RUN apt-get update &&\
+    apt-get install -y procps \
+    gdal-bin -y &&\
+    rm -rf /var/lib/apt/lists/* 
