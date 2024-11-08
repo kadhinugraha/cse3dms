@@ -15,7 +15,7 @@ services:
     container_name: neo4j_topic
     image: neo4j:latest
     environment:
-      - NEO4J_AUTH=neo4j/test
+      - NEO4J_AUTH=neo4j/P4ssword
     ports:
       - "7474:7474"
       - "7687:7687"      
