@@ -13,6 +13,7 @@
 services:
  db:
     build: db
+    image: dhie20/postgis:24.11
     environment:
       #your configuration
       - POSTGRES_DB=gisdb
