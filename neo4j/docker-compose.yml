@@ -8,8 +8,6 @@
 # Open the folder that contains docker-compose.yml
 # run C:\> docker-compose up
 
-version: '1.0'
-
 services:
   neo4j:
     container_name: neo4j_topic
