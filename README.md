@@ -5,7 +5,7 @@ La Trobe University.
 #Notes for Sem 1 - 2026
 If you want to use the computer lab, these are some important informations that you need to follow:
 
-   1. Make sure you use a USB 3.0 portable storage device with at least 64GB of capacity.
+   1. Make sure you use a USB 3.0 portable storage device with at least 128GB of capacity.
       You can use a flash drive, a portable SSD, or an NVMe drive.
       I would not recommend USB 2 or earlier generations or portable HDDs, as the read/write performance is quite low.
    2. Make sure you download the latest Github configuration from here.
